@@ -25,10 +25,10 @@ body {
 
 .top {
     height: 40%;
-    color: hsl(217, 25%, 72%);
     padding: 15px 45px;
     padding-bottom: 30px;
     line-height: 1.5;
+    color: hsl(218, 22%, 67%);
 }
 
 h1 {
